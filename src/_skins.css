@@ -28,20 +28,20 @@
 .es-light-gray-2 { color: var(--es-light-gray-2); }
 .es-light-gray-3 { color: var(--es-light-gray-3); }
 
-.border--es-dark-green-3 { border-color: var(--es-dark-green-3); }
-.border--es-dark-green-2 { border-color: var(--es-dark-green-2); }
-.border--es-dark-green-1 { border-color: var(--es-dark-green-1); }
-.border--es-green { border-color: var(--es-green); }
-.border--es-light-green-1 { border-color: var(--es-light-green-1); }
-.border--es-light-green-2 { border-color: var(--es-light-green-2); }
-.border--es-light-green-3 { border-color: var(--es-light-green-3); }
-.border--es-light-green-4 { border-color: var(--es-light-green-4); }
-.border--es-dark-gray-2 { border-color: var(--es-dark-gray-2); }
-.border--es-dark-gray-1 { border-color: var(--es-dark-gray-1); }
-.border--es-gray { border-color: var(--es-gray); }
-.border--es-light-gray-1 { border-color: var(--es-light-gray-1); }
-.border--es-light-gray-2 { border-color: var(--es-light-gray-2); }
-.border--es-light-gray-3 { border-color: var(--es-light-gray-3); }
+.border-es-dark-green-3 { border-color: var(--es-dark-green-3); }
+.border-es-dark-green-2 { border-color: var(--es-dark-green-2); }
+.border-es-dark-green-1 { border-color: var(--es-dark-green-1); }
+.border-es-green { border-color: var(--es-green); }
+.border-es-light-green-1 { border-color: var(--es-light-green-1); }
+.border-es-light-green-2 { border-color: var(--es-light-green-2); }
+.border-es-light-green-3 { border-color: var(--es-light-green-3); }
+.border-es-light-green-4 { border-color: var(--es-light-green-4); }
+.border-es-dark-gray-2 { border-color: var(--es-dark-gray-2); }
+.border-es-dark-gray-1 { border-color: var(--es-dark-gray-1); }
+.border-es-gray { border-color: var(--es-gray); }
+.border-es-light-gray-1 { border-color: var(--es-light-gray-1); }
+.border-es-light-gray-2 { border-color: var(--es-light-gray-2); }
+.border-es-light-gray-3 { border-color: var(--es-light-gray-3); }
 
 .fill-es-dark-green-3 { fill: var(--es-dark-green-3); }
 .fill-es-dark-green-2 { fill: var(--es-dark-green-2); }

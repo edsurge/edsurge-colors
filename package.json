@@ -30,7 +30,7 @@
     "node": ">=0.10.22"
   },
   "scripts": {
-    "start": "tachyons src/colors.css > css/colors.css && tachyons src/colors.css --minify > css/colors.min.css && tachyons src/colors.css -a --generate-docs --package=../../package.json > readme.md && sed -i 's/tachyons-css/edsurge/g' readme.md"
+    "build": "tachyons src/colors.css > css/colors.css && tachyons src/colors.css --minify > css/colors.min.css && tachyons src/colors.css -a --generate-docs --package=../../package.json > readme.md && sed -i 's/tachyons-css/edsurge/g' readme.md"
   },
   "license": "MIT"
 }
