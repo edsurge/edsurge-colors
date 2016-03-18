@@ -1,6 +1,6 @@
 {
   "name": "edsurge-colors",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "js/colors.js",
   "style": "css/colors.css",
   "homepage": "https://www.edsurge.com",
