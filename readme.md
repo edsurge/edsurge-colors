@@ -1,4 +1,4 @@
-# edsurge-colors 0.1.0
+# edsurge-colors 0.2.0
 
 EdSurge Colors
 
